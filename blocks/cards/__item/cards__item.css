@@ -1,4 +1,4 @@
-.card__item {
+.cards__item {
     width: 240px;
     margin-bottom: 0;
     margin-top: 0;
@@ -6,6 +6,6 @@
     margin-right: 100px;
   }
   
-  .card__item:nth-child(3n) {
+  .cards__item:nth-child(3n) {
     margin-right: 0px;
   }
